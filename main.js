@@ -5,4 +5,5 @@ pago = prompt("Por favor, ingresa el pago por hora");
 
 sueldo = parseFloat(horas) * parseFloat(pago);
 
-alert(sueldo);
+alert(sueldo)
+document.write("su sueldo es " + sueldo);

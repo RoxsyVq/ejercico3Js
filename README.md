@@ -1,4 +1,4 @@
-# ejercicio-1
+# ejercicio-3
 ejercicio1
 inicio: sueldo Semanal
 ## Ingreso de Datos
